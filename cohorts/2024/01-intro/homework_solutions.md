@@ -81,13 +81,12 @@ Replace `<container-id>` with the actual ID of your running container. This will
 
 **Answer:** 
 
-Cost to run 1000 requests:
-
-Total Input Tokens: 150000
-Total Output Tokens: 250000
-Cost for Input Tokens: $ 0.75
-Cost for Output Tokens: $ 3.75
-Total Cost for 1000 Requests: $ 4.5
+- Cost to run 1000 requests:
+- Total Input Tokens: 150000
+- Total Output Tokens: 250000
+- Cost for Input Tokens: $ 0.75
+- Cost for Output Tokens: $ 3.75
+- Total Cost for 1000 Requests: $ 4.5
 
 
 For Q6 and Q7(Bonus):
@@ -107,12 +106,13 @@ Replace `<container-id>` with the actual ID of your running container. This will
 
 
 The number of tokens in the response is(output): 120
+
 Input token using tiktoken (Q6) was: 322
 
-Total Input Tokens: 322000
-Total Output Tokens: 120000
-Cost for Input Tokens: $ 1.61
-Cost for Output Tokens: $ 1.8
-Total Cost for 1000 Requests: $ 3.41
+- Total Input Tokens: 322000
+- Total Output Tokens: 120000
+- Cost for Input Tokens: $ 1.61
+- Cost for Output Tokens: $ 1.8
+- Total Cost for 1000 Requests: $ 3.41
 
 
