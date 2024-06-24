@@ -28,9 +28,10 @@ Features:
 ## Setting Up Elasticsearch
 
 Install the ElasticSearch client for Python:
-    ```bash
-    pip install elasticsearch
-    ```
+
+```bash
+pip install elasticsearch
+```
 
 ### Running Elasticsearch with Docker
 
