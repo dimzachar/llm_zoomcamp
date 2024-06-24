@@ -52,10 +52,11 @@ use `-m 4GB \` flag to specify the memory limit for the Docker container.
 
 
 Use the GET /_cluster/health endpoint to get detailed information about the cluster health, including the status, number of nodes, and number of active shards and the cluster information by running:
-    ```bash
-    curl -X GET "localhost:9200/_cluster/health?pretty"
-    curl localhost:9200
-    ```
+
+```bash
+curl -X GET "localhost:9200/_cluster/health?pretty"
+curl localhost:9200
+```
 
 ### Remove the Existing Container
 
