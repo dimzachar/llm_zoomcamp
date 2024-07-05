@@ -21,6 +21,8 @@ pkg install wget curl
 termux-setup-storage
 ```
 
+Go to Step 4. If you get an error `could not find a PHDR: broken executable?` run Step 2 & 3.
+
 ### Step 2: Set Up a Proot Environment (Ubuntu)
 
 1. Install Ubuntu distribution using proot-distro:
