@@ -4,13 +4,6 @@ This directory contains notes for various topics covered in the course. Below is
 
 | No. | Note Title                        | File Name                          |
 |-----|-----------------------------------|------------------------------------|
-| 1   | Introduction to LLM and RAG       | [01-intro/introduction-to-llm-and-rag.md](01-intro/introduction-to-llm-and-rag.md) |
-| 2   | Preparing the Environment         | [01-intro/preparing-the-environment.md](01-intro/preparing-the-environment.md) |
-| 3   | Retrieval with Minsearch          | [01-intro/retrieval-with-minsearch.md](01-intro/retrieval-with-minsearch.md) |
-| 4   | Generation with OpenAI            | [01-intro/generation-with-openai.md](01-intro/generation-with-openai.md) |
-| 5   | Searching with Elasticsearch      | [01-intro/searching-with-elasticsearch.md](01-intro/searching-with-elasticsearch.md) |
-| 6   | Ollama Module 2                            | [02-open-source/ollama.md](02-open-source/ollama.md) |
-| 7   | Run LLM on Google Colab                             | [02-open-source/colab.md](02-open-source/colab.md) |
-| 8   | Run LLM on Android                           | [02-open-source/android.md](02-open-source/android.md) |
-| 9   | Polars with Ollama                            | [02-open-source/polars.md](02-open-source/polars.md) |
+| 1   | Module 1       | [01-intro](01-intro\README.md) |
+| 2   | Module 2         | [02-open-source](2-open-source\README.md) |
 
