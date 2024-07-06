@@ -117,7 +117,7 @@ We will build a prompt to send to Ollama:
 
 ```python
 def build_prompt(df):
-    prompt = "Analyze the financial data:\\n"
+    prompt = "You are a financial data analyst. Analyze the financial data:\n"
     for row in df.itertuples(index=True):
         prompt += f"Date: {row.date.strftime('%Y-%m-%d')}, Revenue: ${row.revenue}, Expenses: ${row.expenses}\\n"
     prompt += "Predict the revenue and expenses for the next date."
