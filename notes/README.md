@@ -9,4 +9,8 @@ This directory contains notes for various topics covered in the course. Below is
 | 3   | Retrieval with Minsearch          | [01-intro/retrieval-with-minsearch.md](01-intro/retrieval-with-minsearch.md) |
 | 4   | Generation with OpenAI            | [01-intro/generation-with-openai.md](01-intro/generation-with-openai.md) |
 | 5   | Searching with Elasticsearch      | [01-intro/searching-with-elasticsearch.md](01-intro/searching-with-elasticsearch.md) |
+| 6   | Run LLM on Android                           | [02-open-source/android.md](02-open-source/android.md) |
+| 7   | Run LLM on Google Colab                             | [02-open-source/colab.md](02-open-source/colab.md) |
+| 8   | Ollama Module 2                            | [02-open-source/ollama.md](02-open-source/ollama.md) |
+| 9   | Polars with Ollama                            | [02-open-source/polars.md](02-open-source/polars.md) |
 
