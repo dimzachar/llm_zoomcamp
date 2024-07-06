@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ollama is a versatile tool that allows you to run large language models (LLMs) on a CPU. This tutorial will guide you through the steps to set up and use Ollama, including running it with Docker, downloading models, and integrating it with Elasticsearch.
+[Ollama](https://github.com/ollama/ollama) is a versatile tool that allows you to run large language models (LLMs) on a CPU. This tutorial will guide you through the steps to set up and use Ollama, including running it with Docker, downloading models, and integrating it with Elasticsearch.
 
 ## Video
 

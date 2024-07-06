@@ -149,6 +149,8 @@ print(answer)
 
 This will output a prediction based on the provided financial data.
 
+![alt text](image-4.png)
+
 ## Conclusion
 
 In this tutorial, we demonstrated how to use Polars for data manipulation and analysis, and how to integrate it with Ollama for generating insights. Polars provides a powerful and efficient way to handle data, and Ollama can be used to generate meaningful predictions and analyses.
