@@ -23,7 +23,7 @@ Vector search is a method of finding similar items in a dataset by comparing the
 4. **Similarity Measurement**: The query vector is compared with the indexed vectors using similarity measures like cosine similarity or Euclidean distance.
 5. **Retrieval**: The most similar items are retrieved and presented as search results.
 
-![alt text](vector-database -pipeline.png)
+![alt text](vector-database.png)
 
 ## Key Concepts
 
